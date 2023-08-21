@@ -28,7 +28,7 @@
 }
 
 .square {
-    background-color: rgb(29, 29, 29);
+    background-color: rgba(0, 0, 0, 0);
     height: calc((100vh - 1rem - 100px)/20);
     border-radius: 5px;
     transition: all .5s ease-in-out;
